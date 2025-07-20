@@ -66,7 +66,8 @@ To explore or modify the dashboard:
 
 ## 📄 Data visualizations dynamically update upon selecting a filter (country
 
-This project is open-source and available under the MIT License.
+<img width="1631" height="920" alt="image" src="https://github.com/user-attachments/assets/4d004a6e-df4b-41c5-a349-5bdea1e35064" />
+
 
 ---
 
