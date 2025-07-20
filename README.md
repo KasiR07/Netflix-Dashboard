@@ -64,7 +64,7 @@ To explore or modify the dashboard:
 - **2018–2020** was the most active content release period.
 - **Dramas, Documentaries, and Stand-Up Comedy** are the most popular genres.
 
-## 📄 Data visualizations dynamically update upon selecting a filter (country
+## 📄 Data visualizations dynamically update upon selecting a filter (country = US)
 
 <img width="1631" height="920" alt="image" src="https://github.com/user-attachments/assets/4d004a6e-df4b-41c5-a349-5bdea1e35064" />
 
