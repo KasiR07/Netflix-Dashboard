@@ -1,6 +1,20 @@
 # 📊 Netflix Titles Power BI Dashboard
 
-This project presents a comprehensive analysis of Netflix's content catalog using Power BI, including breakdowns by genre, rating, location, release year, and more.
+This project delivers an interactive and data-driven dashboard built in Power BI to analyze Netflix's global content catalog. Leveraging advanced data visualization and transformation techniques, the report provides in-depth insights across multiple dimensions such as:
+
+📂 Genre classification (multi-genre titles using listed_in)
+
+🔢 Rating distribution (TV-MA, PG-13, etc.)
+
+🌍 Geographic distribution (country-level breakdowns and filters)
+
+📅 Temporal analysis (release trends across years)
+
+🎞️ Content type split (TV Shows vs Movies)
+
+📈 Interactive filters and cross-highlighting for dynamic data exploration
+
+Built with Power Query for ETL, DAX measures for custom aggregations, and cross-filtering logic, this dashboard enables real-time, drill-down analytics for decision-making and trend identification in streaming data content.
 
 ## 📌 Overview
 
