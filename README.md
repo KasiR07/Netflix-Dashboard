@@ -13,8 +13,7 @@ The dashboard provides insights into:
 - Movie vs. TV Show ratio
 - Historical trend of content release
 
-<img width="2002" height="1129" alt="image" src="https://github.com/user-attachments/assets/c65a5db0-7f40-4dd6-afb7-618d4b8042ff" />
-
+<img width="1633" height="920" alt="image" src="https://github.com/user-attachments/assets/1833666f-4e77-4441-b0eb-76b74e92a5d9" />
 
 ## 📁 Dataset
 
