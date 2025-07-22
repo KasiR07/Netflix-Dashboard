@@ -2,7 +2,7 @@
 
 This project delivers an interactive and data-driven dashboard built in Power BI to analyze Netflix's global content catalog. Leveraging advanced data visualization and transformation techniques, the report provides in-depth insights across multiple dimensions such as:
 
-📂 Genre classification (multi-genre titles using listed_in
+📂 Genre classification (multi-genre titles using listed_in)
 
 🔢 Rating distribution (TV-MA, PG-13, etc.)
 
